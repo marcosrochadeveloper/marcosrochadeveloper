@@ -12,3 +12,6 @@
 
 https://www.youtube.com/@mrEasyCodeBR
 https://www.instagram.com/mreasycode/
+https://www.twitch.tv/mreasycode
+https://discord.gg/Xv2VsQUf
+mreasycode@gmail.com
