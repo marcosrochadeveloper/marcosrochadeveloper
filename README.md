@@ -7,3 +7,8 @@
   <img alt="mrPHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="mrPython" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
+
+
+
+https://www.youtube.com/@mrEasyCodeBR
+https://www.instagram.com/mreasycode/
